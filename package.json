@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tweenjs/tween.js": "^25.0.0",
+    "three": "^0.169.0",
+    "three.interactive": "^1.8.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.9"
+  }
+}
